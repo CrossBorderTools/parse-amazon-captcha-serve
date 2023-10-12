@@ -4,6 +4,8 @@ parsing Amazon verification codes serve, It depends on [amazoncaptcha](https://g
 
 ## Install and use
 
+- install
+
 ```
 cnpm install
 ```
